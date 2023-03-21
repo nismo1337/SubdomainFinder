@@ -1,2 +1,3 @@
 # SubdomainFinder
-Simple website made in HTML and JavaScript.
+Simple website made to find subdomains. It does this using Google dorking.
+
